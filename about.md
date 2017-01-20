@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a Data Scientist @HashResearch Labs. My journey till was pretty interesting and a bit long way. I started my careers building my first startup in the mechanical domain when I was my 10th Grade :). I never like to settle in a normal routine task because the innovator in me keep on pushing me to reach to a position what I am now.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bastinrobins@gmail.com](mailto:bastinrobins@gmail.com)
